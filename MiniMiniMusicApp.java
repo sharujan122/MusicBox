@@ -15,9 +15,9 @@ public class MiniMiniMusicApp {
             Track track = seq.createTrack();//Get sequence from track
 
             ShortMessage a = new ShortMessage();//put midi event into track
-            a.setMessage(144,1,44,100);
-            MidiEvent noteOn = new MidiEvent(a,1);
-            track.add(noteOn);
+            a.setMessage(144,1,44,100);//start playing note 44
+            MidiEvent noteOn = new MidiEvent(a,1);//add timing to note
+            track.add(noteOn);//This holds all events
 
             ShortMessage b = new ShortMessage();
             a.setMessage(128,1,44,100);
@@ -32,3 +32,4 @@ public class MiniMiniMusicApp {
 
     }//close play
 }//close class
+//378
