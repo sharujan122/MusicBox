@@ -1,3 +1,5 @@
+package test;
+
 import javax.sound.midi.*;
 
 public class MiniMiniMusicApp {

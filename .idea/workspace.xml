@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46355691-14f3-4616-8110-b83fc3103f62" name="Changes" comment="chapter 11: exception handling + Midi Events">
-      <change afterPath="$PROJECT_DIR$/MiniMusicCmdLine.java" afterDir="false" />
+    <list default="true" id="46355691-14f3-4616-8110-b83fc3103f62" name="Changes" comment="Sound player with cmd interface">
+      <change afterPath="$PROJECT_DIR$/MiniMusicPlayer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiniMusicPlayer2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniMiniMusicApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/MiniMiniMusicApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniMiniMusicApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/MiniMiniMusicApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniMusicCmdLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/MiniMusicCmdLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MusicBox/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MusicBox/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MusicBox/MiniMiniMusicApp.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666717507492</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Sound player with cmd interface">
+      <created>1666721930061</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666721930061</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,6 +115,7 @@
     <MESSAGE value="Initial Setup" />
     <MESSAGE value="Exception Handling Test" />
     <MESSAGE value="chapter 11: exception handling + Midi Events" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 11: exception handling + Midi Events" />
+    <MESSAGE value="Sound player with cmd interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sound player with cmd interface" />
   </component>
 </project>

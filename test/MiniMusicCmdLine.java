@@ -1,3 +1,5 @@
+package test;
+
 import javax.sound.midi.*;
 
 public class MiniMusicCmdLine {
@@ -40,6 +42,5 @@ public class MiniMusicCmdLine {
             ex.printStackTrace();
         }
     }  // close play
-
 } // close class
 
